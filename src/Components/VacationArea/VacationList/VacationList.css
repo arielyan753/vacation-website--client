@@ -1,0 +1,25 @@
+.VacationList {
+    background: rgb(255,255,255);
+    background: linear-gradient(77deg, rgba(255,255,255,1) 21%, rgba(175,177,177,1) 50%, rgba(255,255,255,1) 77%);
+}
+
+.VacationList > a {
+	position: absolute;
+    right: 20px;
+    text-decoration: none;
+}
+
+.VacationList .add-btn {
+    margin-bottom: -25px;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+}

@@ -1,0 +1,16 @@
+.AuthMenu {
+	position: absolute;
+    right: 40px;
+    top: 18px;
+    font-size: 20px;
+    font-family: 'Paytone One', sans-serif;
+    color: #ffffff;
+    text-shadow: 1px 3px 0 #383f66, 1px 13px 5px #558192;
+}
+.AuthMenu > a {
+    color: rgb(255, 138, 138);
+}
+.spaceBar {
+    color: #970606;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 55px #ffffff, 0 0 75px #ffffff;
+}

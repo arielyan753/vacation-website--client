@@ -1,0 +1,19 @@
+.Header{
+    background: rgb(177,231,233);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0.575) 0%, rgb(0, 0, 0) 62%);
+    height: 80px;
+}
+
+.Header .title {
+	text-decoration: none;
+    color: black;
+    text-align: left;
+    font-family: 'Paytone One', sans-serif;
+    color: #ffffff;
+    background: #FFFFFF;
+    text-shadow: 1px 3px 0 #383f66, 1px 13px 5px #558192;}
+.headerStyle {
+    width: 400px;
+    padding-left: 37px;
+    padding-top: 12px;
+}

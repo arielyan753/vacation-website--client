@@ -1,0 +1,95 @@
+.VacationCard {
+	width: 375px;
+    height: 450px;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 15px; 
+    box-shadow: -6px 10px 17px 1px #000000;
+    border-radius: 3%;
+    position: relative;
+    background: rgb(196,196,196);
+    background: linear-gradient(65deg, rgba(196,196,196,1) 13%, rgb(231, 229, 229) 51%, rgb(102 102 102) 89%);
+    text-align: center;
+}
+
+.VacationCard img {
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 10px 10px 5px #978d80;
+}
+
+
+.VacationCard > .title {
+    margin-top: 15px;
+    width: 227px;
+    height: 74px;
+    color: #023daa;
+    position: relative;
+    left: 19%;
+}
+
+.VacationCard >  .price{
+    position: relative;
+    bottom: 35px;
+    font-weight: bold;
+}
+
+.VacationCard > .description {
+    margin-top: 2.5px;
+    width: 227px;
+    height: 41px;
+    position: relative;
+    top: -6%;
+    left: 18%;
+    font-weight: bold;
+    font-size: small;
+    color: #000000;
+    text-align: center;
+    overflow: auto;
+    word-break: break-word;
+}
+
+.VacationCard  .rates-rates{
+    position: relative;
+    right: 2%;
+    bottom: -65px;
+}
+
+.VacationCard .watch-list {
+    font-size: 15px;
+    border: none;
+    display: inline-block;
+    position: absolute;
+    left: 87%;
+    bottom: 11px;
+}
+
+.VacationCard .followers {
+    display: inline-block;
+    position: absolute;
+    left: 4%;
+    bottom: -1px;
+}
+
+.VacationCard .dates{
+    font-size: small;
+    position: relative;
+    
+    top: -31px;
+}
+
+.yellowBg{
+    background-color: rgba(202, 142, 142, 0.865);
+}
+
+.btn:active{
+    background-color: rgba(202, 142, 142, 0.865);
+}
+
+.edit-btn {
+    border: none;
+    position: relative;
+    left: 35%;
+}

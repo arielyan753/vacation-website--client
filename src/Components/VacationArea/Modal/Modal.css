@@ -1,0 +1,24 @@
+.Modal {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    background-color: antiquewhite;
+    padding: 25px;
+    border: 5px solid #08263a;
+    height: 160px;
+    border-radius: 9px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    background-color: rgba(201, 226, 237, 0.972);
+    color: #FFFFFF;
+    background: #8f3931;
+    text-shadow: 0 0 10px #FFFFFF;
+}
+.Modal > button {
+    margin-left: 15px;
+}
+
+

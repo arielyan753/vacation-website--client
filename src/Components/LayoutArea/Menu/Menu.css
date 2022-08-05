@@ -1,0 +1,24 @@
+.Menu {
+	width: 300px;
+}
+
+.Menu > h2 {
+	font-size: 36px;
+}
+.vacationMenu {
+    margin-top: -71px;
+    margin-left: 120px;
+    padding: 2px;
+}
+.vacationMenu > button {
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: relative;
+    bottom: 9px;
+    color: black;
+    text-align: left;
+    font-size: 32px;
+    font-family: 'Paytone One', sans-serif;
+    color: #FFFFFF;
+    text-shadow: 1px 3px 0 #383f66, 1px 13px 5px #558192;
+}

@@ -1,0 +1,6 @@
+.layout > .main {
+    text-align: center;
+    justify-content: center;
+    background: rgb(255,255,255);
+    background: linear-gradient(77deg, rgba(255,255,255,1) 21%, rgba(175,177,177,1) 50%, rgba(255,255,255,1) 77%);
+}

@@ -1,0 +1,38 @@
+.Register {
+    text-align: center;
+    position: fixed;
+    top: 15%;
+    transform: translate(50% , 0%);
+    right: 50%;
+    border: 0.5px solid black;
+    padding: 25px;
+    border: 5px solid #08263a;
+    border-radius: 40px;
+    background: rgb(196,196,196);
+    background: linear-gradient(56deg, rgba(196,196,196,1) 50%, rgb(231, 229, 229) 50%, rgb(174, 169, 169) 50%);
+    
+}
+.Register > form {
+	width: 250px;
+}
+
+.Register input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+
+.Register button {
+    width: 100%;
+    margin: 10px 0 20px 0;
+}
+
+.Register span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+}
+
+.Register h2{
+    margin-bottom: 25px;
+}
